@@ -1,8 +1,9 @@
 :root {
   --blue: rgb(79, 133, 134);
   --orange: rgb(241, 149, 59);
-  --border: #e5e7eb;
-  --text: #374151;
+  --border: rgb(229, 231, 235);
+  --text: rgb(55, 65, 81);
+  --banner-background: rgb(254, 243, 223);
 }
 
 
@@ -68,7 +69,7 @@
 }
 
 .logo-banner-area {
-    background-color: rgb(254, 243, 223);
+    background-color: var(--banner-background);
 }
 
 #header-txt {
