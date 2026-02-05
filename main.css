@@ -1,9 +1,9 @@
 :root {
-  --blue: rgb(79, 133, 134);
-  --orange: rgb(241, 149, 59);
-  --border: rgb(229, 231, 235);
-  --text: rgb(55, 65, 81);
-  --banner-background: rgb(254, 243, 223);
+    --blue: #4f8586;
+    --orange: #f1953b;
+    --border: #e5e7eb;
+    --text: #374151;
+    --banner-background: #fef3df;
 }
 
 
