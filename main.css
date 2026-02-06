@@ -1,9 +1,17 @@
-:root {
+/* :root {
     --blue: #4f8586;
     --orange: #f1953b;
     --border: #e5e7eb;
     --text: #374151;
     --banner-background: #fef3df;
+} */
+
+:root {
+    --blue: #4f8586;
+    --orange: #f1953b;
+    --border: #e5e7eb;
+    --text: #374151;
+    --banner-background: white;
 }
 
 
@@ -64,6 +72,7 @@
 .banner-img {
     display: flex;
     margin: auto auto;
+    width: 50%;
     /* margin-left: auto; */
     /* margin-right: auto; */
 }
@@ -91,6 +100,10 @@ iframe {
     align-content: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+.bottom-div {
+    margin: 0 auto;
 }
 
 #address-txt {

@@ -5,7 +5,7 @@
 body {
     font-family: system-ui, -apple-system, sans-serif;
     background: #f3f4f6;
-    padding: 40px;
+    /* padding: 40px; */
     color: var(--text);
 }
 

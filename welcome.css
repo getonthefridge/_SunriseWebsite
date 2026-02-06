@@ -8,6 +8,11 @@ body {
     overflow: hidden;
 }
 
+.staff-info {
+    margin: 0 auto;
+    font-size: 18px;
+}
+
 @media screen and (max-width: 1500px) {
     .welcome video {
         position: absolute;
